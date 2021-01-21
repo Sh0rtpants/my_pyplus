@@ -6,7 +6,7 @@ device1 = {
     "username":'pyclass',
     "password": getpass(),
     "device_type":'cisco_ios',
-    # "session_logs": 'my_session.txt',
+    "session_log": 'my_session.txt'
 }
 
 net_connect = ConnectHandler(**device1)
