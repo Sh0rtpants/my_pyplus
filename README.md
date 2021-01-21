@@ -1,2 +1,2 @@
 # pyplus
-Pyplus Course Repository
+my_pyplus Course Repository
